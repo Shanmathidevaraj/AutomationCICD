@@ -18,7 +18,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-
+//checking CICD pipeline 
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 
